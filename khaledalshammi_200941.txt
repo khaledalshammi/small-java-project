@@ -1,0 +1,14 @@
+Id-number:10 his/her-name:Hamdon weight:42.5 age:28 state:Lebanon height:2.1
+	 dose:[Treat:Riboflavin time:1887 where:Oman name-Id:alheman-37, Treat:Simvastatin time:2006 where:Maka name-Id:fadii-41]
+Id-number:12 his/her-name:Ehsan weight:137.96 age:21 state:kuwait height:182.6
+	 dose:[Treat:Pyridoxine time:1892 where:Qahera name-Id:fadam-46, Treat:Poliomyelitis time:1744 where:Madrid name-Id:aldawod-30]
+Id-number:20 his/her-name:Saja weight:62.7 age:23 state:Brazil height:159.0
+	 dose:[Treat:fever time:1500 where:S-W name-Id:fadii-41, Treat:Thiamine time:1922 where:Salmiya name-Id:fadam-46, Treat:Hepatiti-B time:1900 where:USA name-Id:hower-23]
+Id-number:30 his/her-name:Taha weight:72.38 age:17 state:Oman height:165.8
+	 dose: None
+Id-number:32 his/her-name:Assel weight:87.24 age:63 state:Japan height:155.6
+	 dose:[Treat:Acyclovir time:1789 where:Istanpol name-Id:hadi-64]
+Id-number:66 his/her-name:Zakarea weight:79.32 age:45 state:syria height:191.0
+	 dose:[Treat:Rabies time:1931 where:H-W name-Id:zaiyd-65, Treat:Epinephrine time:2009 where:Adan name-Id:aldawod-30, Treat:Measles time:1995 where:A-P name-Id:fadii-41]
+Id-number:75 his/her-name:Mousa weight:20.73 age:6 state:Canada height:95.0
+	 dose:[Treat:Hepatiti-A time:1999 where:Shariqa name-Id:hower-23]
